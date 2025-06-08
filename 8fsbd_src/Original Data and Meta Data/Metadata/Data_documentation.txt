@@ -1,0 +1,5 @@
+Source of the Data:
+IMDb - Movies, TV and Celebrities (www.imdb.com). Accessed on 11/16/2016.
+Variables:
+- TV Station: Which TV station produced this film?
+- Rating: What is the average IMDB rating for this film?
